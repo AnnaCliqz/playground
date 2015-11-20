@@ -20,8 +20,12 @@ For this hack day we developed a tool that converts the github read me file into
 # Time for a Quick Demo
 A Github to Powerpoint Generator
 
+## What's Done
+- GUI of txt-to-ppt 
+- Command Line tool for ppt-to-txt
+ 
 ## Next Steps
-- First draft of ppt to text converter ready. polish it further
+- GUI for ppt-to-txt 
 - Include the conversion option in extension.
 
 ##Want to try out?
